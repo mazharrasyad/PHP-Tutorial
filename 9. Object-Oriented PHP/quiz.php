@@ -42,5 +42,6 @@ class B extends A{
         echo "B";
     }
 }
+// final methods cannot be overridden
 
 ?>
